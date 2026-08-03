@@ -29,6 +29,7 @@ The goal of this repository is to build a strong Python foundation for Data Engi
 
 ## Repository Structure
 
+```text
 examples/
 ├── 01_variables/
 ├── 02_data_types/
@@ -50,6 +51,7 @@ exercises/
 mini_projects/
 docs/
 tests/
+```
 
 ---
 
